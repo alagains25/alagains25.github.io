@@ -11,3 +11,8 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Ruby 4 stdlib gems
+ gem "csv"
+ gem "logger"
+gem "bigdecimal"
